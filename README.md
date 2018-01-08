@@ -1,6 +1,6 @@
 # TBKCF
 A brief introduction of our methods.
-The paper is under review.
+The paper will be published in IEEE Transactions on Multimedia.
 
 Robust Tracking and Re-detection:
 Collaboratively Modeling the Target and Its Context
@@ -20,10 +20,5 @@ can effectively enhance the robustness of long-term tracking.
 Index Terms—Collaborative modeling, Fusion of tracking results, Re-detection, Target tracking.
 
 
-The notes for the folders:
-The folder '.\codes' contains the codes of our method.
-The folder '.\data' contains the experimental results of our method.
-The folder '.\figs and tables' contains the figs and tables of our paper.
-
-Please cite this article
+Please cite this paper
 Liu, C., Liu, P., Zhao, W., & Tang, X. (2017). Robust tracking and re-detection: collaboratively modeling the target and its context. IEEE Transactions on Multimedia.
