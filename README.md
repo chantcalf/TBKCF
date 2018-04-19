@@ -18,22 +18,35 @@ can effectively enhance the robustness of long-term tracking.
 Index Terms—Collaborative modeling, Fusion of tracking results, Re-detection, Target tracking.
 
 
-Please cite this paper
+Please cite this paper：
 @article{DBLP:journals/tmm/LiuLZT18,
+
   author    = {Chang Liu and
                Peng Liu and
                Wei Zhao and
                Xianglong Tang},
+               
   title     = {Robust Tracking and Redetection: Collaboratively Modeling the Target
                and Its Context},
+               
   journal   = {{IEEE} Trans. Multimedia},
+  
   volume    = {20},
+  
   number    = {4},
+  
   pages     = {889--902},
+  
   year      = {2018},
+  
   url       = {https://doi.org/10.1109/TMM.2017.2760633},
+  
   doi       = {10.1109/TMM.2017.2760633},
+  
   timestamp = {Wed, 11 Apr 2018 09:53:32 +0200},
+  
   biburl    = {https://dblp.org/rec/bib/journals/tmm/LiuLZT18},
+  
   bibsource = {dblp computer science bibliography, https://dblp.org}
+  
 }
